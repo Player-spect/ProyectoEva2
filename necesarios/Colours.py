@@ -1,0 +1,16 @@
+# Colours
+endColour="\033[0m\033[0m"
+greenColour="\033[0;32m\033[1m"
+redColour="\033[0;31m\033[1m"
+blueColour="\033[0;34m\033[1m"
+goldColour="\033[0;33m\033[1m"
+purpleColour="\033[0;35m\033[1m"
+turquesaColour="\033[0;36m\033[1m"
+grayColour="\033[0;37m\033[1m"
+aquaColour="\033[1;38;5;14m"
+orangeColour="\033[1;38;5;208m"
+yellowColour="\033[1;38;5;226m"
+lightgreenColour="\033[1;38;5;77m"
+lightredColour="\033[1;38;5;160m"
+whiteColour="\033[1;38;5;255m"
+
